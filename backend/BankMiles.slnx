@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Bank.Dmz.Gateway/Bank.Dmz.Gateway.csproj" />
+    <Project Path="src/Bank.Identity.IdP/Bank.Identity.IdP.csproj" />
+    <Project Path="src/Bank.Onboarding.Api/Bank.Onboarding.Api.csproj" />
+  </Folder>
+</Solution>
